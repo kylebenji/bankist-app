@@ -1,6 +1,6 @@
 Bankist app created as part of javascript course on Udemy.
 
-##Functionality:
+## Functionality:
 
 1. Displays:
    - Money movements (deposits/withdrawals) with internationalized dates and values
@@ -29,7 +29,7 @@ Bankist app created as part of javascript course on Udemy.
    - upon login a 5 minute timer starts, at the end of which the user will be logged out and the UI will be hidden
    - clicking any of the buttons on the screen that perform an action after login will start the timer over
 
-##Test Users:
+## Test Users:
 
 1. Jonas Schmedtmann (author of the course)
 
